@@ -191,6 +191,11 @@ return {
         "shellcheck",
         "shfmt",
         "flake8",
+        "gofumpt",
+        "goimports",
+        "golangci-lint",
+        "delve",
+        "staticcheck"
       },
     },
   },
